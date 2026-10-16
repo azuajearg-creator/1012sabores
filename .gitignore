@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.wwebjs_auth/
+.wwebjs_cache/
+wa-auth/
+firebase-config.js
+*.log
+.claude/
+.DS_Store
+Thumbs.db
